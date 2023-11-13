@@ -1,0 +1,26 @@
+//json
+"Account":"NamePlayer"
+"Token":"TokenPlayer"
+"UserID":"USERIDPLAYER"
+"Ban":true
+"Block_User_Message":"Тебя забанили По Причине за читерство"
+"Button":"Создать новый аккаунт"
+"Button2":"Техн-поддержка"
+"Button2_url":"@SqueakDev"
+"click":"Button2"
+"Cheat":false
+"VIP"={
+    "VIP":0
+    "VIP_BUY":1
+    "VIP_update":true
+    "CCC"={
+        "admin"
+        "Super"
+        "World"
+        "Money"
+        "Robzi"
+        "MMA"
+        "Holdik"
+        "ContentCreator":"CCC"
+    }
+}

@@ -1,0 +1,7 @@
+//byte
+"Web-Site":". /HTML/main.HTML"
+"moneyshop":"./moneyshop/main.php"
+"crypto":"crypto.json"
+"lib":"./lib/libg.js"
+"Mongo":"mongo.json"
+"Windows":"./Crypto/win_64bit.exe"
